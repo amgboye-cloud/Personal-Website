@@ -12,8 +12,12 @@ p{
 }
 li{
     padding: 5px;
-    list-style-type: none;
 }
+.nav-bar li{
+        list-style-type: none;
+}
+
+
 .nav-bar{
     height: 75px;
     position: fixed;
@@ -634,3 +638,4 @@ i{
         display: none;
     }
 }
+
